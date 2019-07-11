@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579436929554",
+    "firebase_url": "https://barcodescancamreax.firebaseio.com",
+    "project_id": "barcodescancamreax",
+    "storage_bucket": "barcodescancamreax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579436929554:android:3826be3732684fb7",
+        "android_client_info": {
+          "package_name": "ca.aatl.mobi.android.barcodescancamreax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579436929554-imp8dpunhoact6tkjcr8l26pogr9g90g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.aatl.mobi.android.barcodescancamreax",
+            "certificate_hash": "c33ba11472b2a872a874705d97b6b036ce7afdb9"
+          }
+        },
+        {
+          "client_id": "579436929554-oo9fucrjcja2c2dgsuita8fca9ne5mv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zQ5KrTvuophu1V03eUCKNaRG3ayVgnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579436929554-oo9fucrjcja2c2dgsuita8fca9ne5mv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
